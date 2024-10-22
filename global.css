@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+color:burlywood
+}
+
+
+img{
+   
+}
+
+p{
+    font-size: larger;
+}
+a{
+    color: black;
+    font-size: medium;
+
+}
+
+input{
+    text-align: left;
+}
+
+#hi{
+    font-size: medium;
+    color: rgb(34, 155, 119);
+}
